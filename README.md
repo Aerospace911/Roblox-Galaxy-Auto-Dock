@@ -1,5 +1,8 @@
 # Roblox Galaxy Auto Dock
 
+# BEING CAUGHT USING THIS SCRIPT AND DISTRIBUTING IS A BANNABLE OFFENSE. 
+## Learn how to stay hidden at [Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1](https://github.com/Aerospace911/Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1)
+
 This is an addon to the Perfect Warp scripts.
 
 You can easily implement it into the Perfect Auto Warp 5.0 where it says "; addons" to auto dock after you warp.
