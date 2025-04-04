@@ -10,3 +10,6 @@ Here's an example on how its added in Perfect Warp 5.0.
 
 # IMPORTANT
 You need to change the coords for checkColor and warpcolor by using your critical thinking skills and google to find out what a hex color code is.
+
+After you or the script pushes the keybind, you will know that Auto Dock is active from this GUI at the top of your screen.
+![image](https://github.com/user-attachments/assets/76774d2a-33cf-42ed-aad1-92428697ba50)
