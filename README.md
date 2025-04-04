@@ -8,3 +8,5 @@ Here's an example on how its added in Perfect Warp 5.0.
 
 ![image](https://github.com/user-attachments/assets/6612f0f3-c853-481c-b57e-12e558acc1dd)
 
+# IMPORTANT
+You need to change the coords for checkColor and warpcolor by using your critical thinking skills and google to find out what a hex color code is.
